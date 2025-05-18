@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "demoTest": "testcafe chrome tests/selectors/login.js"
+    "demoTest": "testcafe chromium tests/selectors/login.js"
   }
  
   
