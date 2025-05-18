@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "demoTest": "testcafe chromium tests/selectors/login.js"
+    "demoTest": "testcafe chrome:headless tests/selectors/login.js"
   }
  
   
