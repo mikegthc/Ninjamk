@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "demoTest": "testcafe chrome tests/selectors/login.js --reporter html"
+  },
+  "dependencies": {
+    "testcafe-reporter-html": "^1.4.6"
+  }
+}
